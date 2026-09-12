@@ -1,10 +1,10 @@
 {
-  "name": "course-directory-student-template",
-  "version": "1.5.0",
-  "description": "Course Catalog Template for Students",
+  "name": "net-os-admin",
+  "version": "1.0.0",
+  "description": "Администрирование сетевых подсистем",
   "main": "index.js",
-  "repository": "git@github.com:yamadharma/course-directory-student-template.git",
-  "author": "Dmitry S. Kulyabov <yamadharma@gmail.com>",
+  "repository": "git@github.com:vikauustin/2026-2027_net-os-admin.git",
+  "author": "Viktoria Ustinova <vktrstnv65@bk.ru>",
   "license": "CC-BY-4.0",
     "config": {
 	"commitizen": {
